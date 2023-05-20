@@ -12,6 +12,9 @@ PHP.
 
 To open the project right now, click on the link: (https://github.com/CaioPaulinoCosta/projetoBlogVert)
 
+## Visualização do projeto
+![projeto-blog-vert](https://github.com/CaioPaulinoCosta/projetoBlogVert/assets/130261742/05c8e7f7-34bf-4183-b8f5-1e46e06cacb1)
+
 --- 
 
 ##### Make with 🧠
